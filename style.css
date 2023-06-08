@@ -21,10 +21,11 @@ body {
     color: #fff;
     font-size: 1.5rem;
     font-family: 'Inter', sans-serif;
+    line-height: 1;
 }
 .container {
     max-width: 111rem;
-    margin: 20rem auto;
+    margin: 17.7rem auto;
     display: grid;
 
     grid-template-columns: 1fr 1fr;
@@ -43,14 +44,19 @@ body {
 
 h1 {
     margin-bottom: 4rem;
-    max-width: 70%;
+    font-size: 3.6rem;
+    line-height: 4.4rem;
+}
+
+h2 {
+    line-height: 2.9rem;
 }
 
 .description {
     margin-bottom: 6rem;
     color: hsla(0, 0%, 100%, 0.75);
-    max-width: 65%;
     font-family: 'Lexend Deca', sans-serif;
+    line-height: 2.4rem;
 }
 
 .features {
