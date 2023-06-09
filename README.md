@@ -1,4 +1,18 @@
-# FrontendMentor-Stats-Component
-Challenge from Frontendmentor.io for a beautiful stats component
+# Frontend Mentor - Stats Preview Card Component solution
 
-![Screenshot](screenshot.png)
+This is a solution to the [Body Mass Index Calculator challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+### Screenshot
+
+![](./screenshot.png)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-component-using-css-grid-Ztzmm4ztJZ)
+- Live Site URL: [Add live site URL here](https://umutyg.github.io/FrontendMentor-Stats-Component)
+
+## Author
+
+- Frontend Mentor - [@UmutYG](https://www.frontendmentor.io/profile/UmutYG)
+
+
