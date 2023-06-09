@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats Preview Card Component solution
 
-This is a solution to the [Body Mass Index Calculator challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Body Mass Index Calculator challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### Screenshot
 
@@ -8,11 +8,9 @@ This is a solution to the [Body Mass Index Calculator challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-component-using-css-grid-Ztzmm4ztJZ)
-- Live Site URL: [Add live site URL here](https://umutyg.github.io/FrontendMentor-Stats-Component)
+-   Solution URL: [https://www.frontendmentor.io/solutions/stats-component-using-css-grid-Ztzmm4ztJZ](https://www.frontendmentor.io/solutions/stats-component-using-css-grid-Ztzmm4ztJZ)
+-   Live Site URL: [https://umutyg.github.io/FrontendMentor-Stats-Component](https://umutyg.github.io/FrontendMentor-Stats-Component)
 
 ## Author
 
-- Frontend Mentor - [@UmutYG](https://www.frontendmentor.io/profile/UmutYG)
-
-
+-   Frontend Mentor - [@UmutYG](https://www.frontendmentor.io/profile/UmutYG)
